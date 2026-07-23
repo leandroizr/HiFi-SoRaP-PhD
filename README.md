@@ -20,6 +20,11 @@ understanding of them.
 It was created by me (Leandro Zardaín Rodríguez, leandrozardain@gmail.com) under the guidance of the professors Anna Puig (annapuig@ub.edu) & Ariadna Farrés (ariadna.farres@gmail.com) for my Master degree thesis on 2019. We have made an article about this where you can get more information about this project:
 <a href="https://www.researchgate.net/publication/349295985_High-fidelity_Modeling_and_Visualizing_of_Solar_Radiation_Pressure_A_Framework_for_High-fidelity_Analysis"><b>Farres, Ariadna & Puig, Anna & Zardaín, Leandro. (2020). High-fidelity Modeling and Visualizing of Solar Radiation Pressure: A Framework for High-fidelity Analysis. </b> </a>
 
+Later on, some improvements were made in this project and it was explained in this congress paper:
+<a href="https://www.researchgate.net/publication/374226429_Validation_of_the_SRP_tool_HiFi-SoRaP"><b>Farres, Ariadna & Puig, Anna & Zardaín, Leandro. (2023). Validation of the SRP tool: HiFi-SoRaP. </b> </a>
+
+
+
 <b>Project software architecture</b>
 
 The solution that is proposed in this thesis consists of a C++ application,  using the Qt framework.  It was coded in C++
